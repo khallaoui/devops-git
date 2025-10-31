@@ -1,146 +1,97 @@
 # MOHAMED KHALLAOUI
-**Software Engineering Student | Java JEE / Spring Boot Developer**
 
 ?? +212624433295 | ?? med.khallaoui4@gmail.com | ?? Morocco  
-[LinkedIn](https://linkedin.com/in/Mohamed-Khallaoui) | [GitHub](https://github.com/khallaoui) | [Portfolio](https://khallaoui.vercel.app)
+?? [LinkedIn/Mohamed Khallaoui](https://linkedin.com/in/mohamedkhallaoui) | ?? [GitHub/khallaoui](https://github.com/khallaoui) | ?? [Portfolio](https://khallaoui.vercel.app)
 
 ---
 
-## PROFESSIONAL SUMMARY
+## ?? Profile
 
-Software Engineering student seeking a **6-month Final Year Project / Internship (Jan/Feb 2026)**. Specialized in **backend development with Java JEE, EJB, and Spring Boot**. Experienced in building enterprise applications using Microservices architecture, RESTful APIs, and modern DevOps practices. Strong problem-solving abilities with a focus on scalable, maintainable backend solutions.
-
----
-
-## TECHNICAL SKILLS
-
-### Core Java Technologies
-- **Programming Language**: Java
-- **Enterprise Frameworks**: Spring Boot, Spring MVC, Spring Security, Spring Data, JEE, EJB
-- **Architecture & Design**: Microservices Architecture, RESTful APIs, MVC Pattern, Dependency Injection
-
-### Backend Development
-- **API Development**: RESTful Web Services, API Design & Documentation
-- **Messaging & Integration**: Kafka
-- **Security**: Spring Security, Keycloak, Authentication & Authorization
-
-### Databases
-- **Relational**: Oracle, PostgreSQL, MySQL, PL/SQL
-- **NoSQL**: MongoDB
-- **ORM**: Hibernate, JPA, Spring Data JPA
-
-### DevOps & CI/CD
-- Git, GitHub Actions, Jenkins, Docker, Kubernetes, Azure DevOps
-
-### Testing & Quality Assurance
-- JUnit, Mockito, Postman, Swagger/OpenAPI, SonarQube, ZaProxy
-
-### Frontend (Full-Stack Capabilities)
-- Angular, React, Thymeleaf
-
-### Project Management & Methodologies
-- Jira, Slack, Scrum, Agile Environments
+Software Engineering student seeking a 6-month Final Year Project / Internship (Jan/Feb 2026).  
+Experienced in **Java JEE, EJB, and Spring Boot** for backend development. Skilled in designing RESTful APIs, managing databases, and implementing secure and scalable enterprise applications. Strong understanding of software architecture, clean code, and Agile methodologies.
 
 ---
 
-## WORK EXPERIENCE
+## ??? Technical Skills
 
-### **Backend Developer** | AtlionTech, Kenitra
-*May 2024 ? Jan 2025*
-
-- Developed enterprise **Java Spring Boot** applications with microservices architecture
-- Implemented RESTful APIs and integrated backend services with cloud platforms
-- Built scalable backend solutions using Spring Boot and modern Java frameworks
-- Collaborated on full-stack projects integrating Java backend with frontend technologies
-
-### **Full Stack Developer Intern** | i-Soft Network, Kenitra
-*Aug ? Oct 2023*
-
-- Developed backend applications using **Spring Boot** with RESTful API architecture
-- Integrated Spring Boot backend with Angular frontend for enterprise web solutions
-- Designed and implemented database schemas and data access layers
-- Built and tested APIs using Postman and Swagger documentation
-
-### **Full Stack Developer Intern** | Le Premier Syst?me, Kenitra
-*Apr ? Jun 2023*
-
-- Built web applications using **Spring MVC** and **Spring Security**
-- Implemented authentication and authorization mechanisms with Spring Security
-- Developed server-side rendering with Thymeleaf template engine
-- Designed relational database schemas and integrated MySQL using Spring Data JPA
-- Applied UML modeling for system architecture and design
-
-### **Software Developer Intern** | Public Library, Khenifra
-*May ? Jun 2022*
-
-- Created a Library Management System using **Java** (Swing) and MySQL
-- Implemented CRUD operations and database integration
-- Designed application architecture using UML diagrams
-- Developed business logic layer for inventory and member management
+- **Languages:** Java, SQL, PL/SQL
+- **Frameworks & Technologies:** JEE (Servlets, JSP, EJB, JPA), Spring Boot, Spring MVC, Spring Security, RESTful APIs, Microservices
+- **Databases:** Oracle, PostgreSQL, MySQL
+- **Tools & Testing:** Git, GitHub, Postman, Swagger, JUnit, Mockito, Maven, SonarQube
+- **DevOps (basic):** Docker, Jenkins
+- **Modeling:** UML, Merise
+- **Methodologies:** Agile, Scrum, Jira
 
 ---
 
-## PROJECTS
+## ?? Professional Experience
 
-### **Intelligent Search Web Service**
-**Java, Spring Boot, RESTful APIs**  
-- Built a scalable search service using Spring Boot and microservices architecture
-- Deployed on Railway cloud platform with comprehensive SwaggerHub API documentation
-- Implemented efficient search algorithms and RESTful endpoints
+### **Java / Spring Boot Developer Intern** | *AtlionTech, Kenitra*
+?? *May 2024 ? Jan 2025*
 
-### **Grade Management System**
-**Spring Boot, Apache POI, JPA, Angular**  
-- Developed backend REST API using Spring Boot with Spring Data JPA
-- Integrated Apache POI for Excel file processing and data import/export
-- Built Angular frontend consuming Spring Boot RESTful services
-- Implemented secure authentication and role-based access control
+- Developed backend components with **Java Spring Boot** and **JEE (EJB, JPA)**
+- Designed RESTful APIs and integrated business logic for enterprise applications
+- Worked with Oracle and PostgreSQL databases, applying JPA/Hibernate for persistence
+- Participated in application deployment and testing using Docker and Jenkins
 
-### **Spring Boot AI Integration App**
-**Spring Boot, RESTful APIs, External API Integration**  
-- Designed and implemented Spring Boot backend integrating external AI APIs
-- Built RESTful endpoints for AI-powered data processing
-- Implemented error handling and API rate limiting
+### **Full Stack Developer Intern** | *i-Soft Network, Kenitra*
+?? *Aug ? Oct 2023*
 
-### **Library Management System**
-**Java, MySQL, JDBC**  
-- Developed desktop application with Java Swing and JDBC for database connectivity
-- Implemented MVC architecture pattern for maintainable code structure
-- Created comprehensive CRUD operations for book and member management
+- Built web applications using **Spring Boot (backend)** and **Angular (frontend)**
+- Implemented CRUD operations, authentication, and RESTful API endpoints
 
----
+### **Java Developer Intern** | *Le Premier Syst?me, Kenitra*
+?? *Apr ? Jun 2023*
 
-## EDUCATION
+- Created a production management application using **Spring MVC**, **Spring Security**, **Thymeleaf**, and **MySQL**
+- Modeled system architecture and database using **UML**
 
-**Master's in Software Engineering** | Faculty of Sciences, Ibn Tofail University, Kenitra  
-*2024 ? Present*
+### **Java Developer Intern** | *Public Library, Khenifra*
+?? *May ? Jun 2022*
 
-**Bachelor's in Computer Engineering** | Higher School of Technology, Kenitra  
-*2022 ? 2023*
+- Designed a **Library Management System** with **Java Swing** and **MySQL**
+- Implemented book lending, user registration, and reporting modules
 
-**Software Development Diploma (BTS)** | Moulay Ismail Technical High School, Meknes  
-*2020 ? 2022*
+### **Software Developer Intern** | *Public Administration, Khenifra*
+?? *Jun ? Aug 2021*
 
-**Baccalaureate in Electrical Technology** | Khenifra  
-*2020*
+- Developed a **desktop application** for administrative management using **Visual Basic** and **MS Access**
 
 ---
 
-## CERTIFICATIONS & LEARNING
+## ?? Side Projects
 
-- [Google Developer Profile](https://developers.google.com/profile)
-- [HackerRank Profile](https://hackerrank.com) - Java & Problem Solving
-- [Microsoft Learn Badges](https://learn.microsoft.com)
-- Continuous learning in Spring Boot, Microservices, and Cloud Technologies
-
----
-
-## LANGUAGES
-
-- **English & French**: Professional Proficiency
-- **Arabic & Tamazight**: Native Speaker
+- **Grade Management System:** Spring Boot + Angular + MySQL; includes CRUD operations and report generation with Apache POI
+- **Intelligent Search Web Service:** RESTful API built with Java Spring Boot and documented using SwaggerHub
+- **Next.js Gemini AI App:** Integration between Spring Boot backend and AI API *(demonstrates curiosity beyond backend)*
 
 ---
 
-## INTERESTS
+## ?? Education
 
-?? Volleyball Player | ?? Chess Enthusiast | ?? Technology Explorer
+- **Master's in Software Engineering** | Ibn Tofail University ? Kenitra *(2024 ? Present)*
+- **Bachelor's in Computer Engineering** | Higher School of Technology ? Kenitra *(2022 ? 2023)*
+- **Diploma in Software Development (BTS)** | Moulay Ismail Technical HS ? Meknes *(2020 ? 2022)*
+- **Baccalaureate in Electrical Technology** | Khenifra *(2020)*
+
+---
+
+## ?? Certifications & Profiles
+
+- Oracle Java Certification (in progress)
+- GitHub Education Pack | HackerRank | Microsoft Learn
+
+---
+
+## ?? Languages
+
+- **English & French:** Professional
+- **Arabic & Tamazight:** Native
+
+---
+
+## ? Interests
+
+Volleyball ? Chess ? Learning new technologies ? Software architecture
+
+---
