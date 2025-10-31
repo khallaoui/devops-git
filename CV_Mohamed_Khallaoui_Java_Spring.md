@@ -8,7 +8,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Software Engineering student seeking a **6-month Final Year Project / Internship (Jan/Feb 2026)**. Experienced in **backend development with Java JEE and Spring Boot**, frontend technologies, DevOps, data analysis, and SAP technical consulting. Passionate about AI and cloud computing, with strong problem-solving, adaptability, and teamwork skills.
+Software Engineering student seeking a **6-month Final Year Project / Internship (Jan/Feb 2026)**. Experienced in **backend development with Java JEE and Spring Boot, Microservices architecture, RESTful APIs and DevOps tools**. Passionate about AI and cloud computing, with strong problem-solving, adaptability, and teamwork skills.
 
 ---
 
